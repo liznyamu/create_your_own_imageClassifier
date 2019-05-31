@@ -7,7 +7,7 @@ Build a Python application that can train an image classifier on a dataset, then
 
 Tools used :
 - Python - for scripting
-- Pytorch and cuda - to train, validate and make predictions
+- Keras, PyTorch and cuda - to train, validate and make predictions
 
 Skills :
 - Deep Learning with Neural networks (using pretrained models) 
